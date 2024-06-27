@@ -6,7 +6,7 @@ on:
 permissions:
   contents: read
   pages: write
-  id-token: writeo
+  id-token: write
 
 jobs:
   deploy:
